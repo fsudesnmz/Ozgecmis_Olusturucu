@@ -193,5 +193,3 @@ Arial fontlarını kullandığınızdan ve `PDType0Font.load()` metoduyla yükle
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
 ---
-
-⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
